@@ -1,0 +1,16 @@
+PODS:
+  - DropMenu (0.0.1)
+
+DEPENDENCIES:
+  - DropMenu (from `../`)
+
+EXTERNAL SOURCES:
+  DropMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DropMenu: 056d7d24a849821ac67f5e4ec2f790abed8675f3
+
+PODFILE CHECKSUM: cad831741adec97102a226d96d6c2459988de326
+
+COCOAPODS: 1.9.3
